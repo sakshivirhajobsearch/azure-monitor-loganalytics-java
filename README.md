@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Java (Maven/Gradle), Azure
+- **Detected Technologies:** Azure, GAN, Java
 - **GitHub Topics:** None
 
 ---
